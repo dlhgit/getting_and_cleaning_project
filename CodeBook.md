@@ -30,11 +30,11 @@ The following files are available for the train and test data. Their description
 
 ####Abbriviations and descriptions <br/>
 
-Sdt= Standard Deviation
-Acc= Acceleration
-Gyro= Gyroscope
-Mag= Magnitude
-Mean and standard deviation are calculated for each variable for each activity and each subject.
+Sdt= Standard Deviation <br/>
+Acc= Acceleration	<br/>
+Gyro= Gyroscope	<br/>
+Mag= Magnitude <br/>
+Mean and standard deviation are calculated for each variable for each activity and each subject. <br/>
 <ul>
 <li>timeBodyAccMean-X</li>           <li>timeBodyAccMean-X</li>          
 <li>timeBodyAccMean-X</li>           <li>timeBodyAccStd-X</li>           
