@@ -18,4 +18,4 @@ The script does the following:<br/>
     5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.<br/>
     
 ##Code book
-Please see the CodeBook.MD for details on the variables in the dataset.
+Please see the CodeBook.md for details on the variables in the dataset.
