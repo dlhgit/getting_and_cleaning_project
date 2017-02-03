@@ -34,6 +34,7 @@ Sdt= Standard Deviation <br/>
 Acc= Acceleration	<br/>
 Gyro= Gyroscope	<br/>
 Mag= Magnitude <br/>
+<br/>
 Mean and standard deviation are calculated for each variable for each activity and each subject. <br/>
 <ul>
 <li>timeBodyAccMean-X</li>           <li>timeBodyAccMean-X</li>          
