@@ -16,6 +16,7 @@ The script does the following:<br/>
     3. Uses descriptive activity names to name the activities in the data set<br/>
     4. Appropriately labels the data set with descriptive variable names.<br/>
     5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.<br/>
-    
+Please load dplyr and data.table packages before running the script.<br/>
+   
 ##Code book
 Please see the CodeBook.md for details on the variables in the dataset.
