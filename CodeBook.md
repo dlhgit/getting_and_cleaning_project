@@ -23,12 +23,12 @@ The following files are available for the train and test data. Their description
 
 ##Variables
 
-### Variables:Label			
+#### Variables:Label			
  SubjectId:Subject ID          
  activityId:Activity ID 	
  activityType:Activity Type	
 
-The rest of the variables have descriptive variable names
+The rest of the variables have descriptive variable names <br/>
 Some helpful abbreviations: 
 Sdt= Standard Deviation
 Acc= Acceleration
