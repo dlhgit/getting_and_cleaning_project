@@ -23,17 +23,17 @@ The following files are available for the train and test data. Their description
 
 ##Variables
 
- Variables      Label			
- SubjectId      Subject ID          
- activityId     Activity ID 	
- activityType   Activity Type	
+### Variables:Label			
+ SubjectId:Subject ID          
+ activityId:Activity ID 	
+ activityType:Activity Type	
 
 The rest of the variables have descriptive variable names
 Some helpful abbreviations: 
-Sdt: Standard Deviation
-Acc: Acceleration
-Gyro: Gyroscope
-Mag: Magnitude
+Sdt= Standard Deviation
+Acc= Acceleration
+Gyro= Gyroscope
+Mag= Magnitude
 
 timeBodyAccMean-X           timeBodyAccMean-Y          
 timeBodyAccMean-Z           timeBodyAccStd-X           
